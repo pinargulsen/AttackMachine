@@ -1,6 +1,5 @@
 ﻿
 # ⚔️ Attack Machine
-
 ![](https://github.com/realaskaer/Scroll/blob/master/data/preview.png)
 
 ## Общая информация
